@@ -1,0 +1,3 @@
+C:/Users/anzef/CLionProjects/1. letnik - ponavlanje/naloga0801/cmake-build-debug/CMakeFiles/naloga0801.dir
+C:/Users/anzef/CLionProjects/1. letnik - ponavlanje/naloga0801/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/anzef/CLionProjects/1. letnik - ponavlanje/naloga0801/cmake-build-debug/CMakeFiles/rebuild_cache.dir
